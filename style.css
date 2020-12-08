@@ -6,3 +6,7 @@
 .card {
 float: left;
 }
+
+.img-thumbnail {
+    width: 200px;
+}
