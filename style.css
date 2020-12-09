@@ -1,3 +1,7 @@
+body {
+    background-color: #343a40;
+}
+
 #SelfPortrait {
     max-width: 200px;
     height: 200px;
@@ -9,6 +13,7 @@
 
 .img-thumbnail {
     width: 200px;
+    margin-bottom: 30px;
 }
 
 .margintop {
@@ -34,8 +39,31 @@ html, body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     background-color: #e9ecf0;
+    color: grey;
 }
 
 .footer h2 {
     font-size: 20px;
+}
+
+.image-fluid {
+    margin-top: 20px;
+}
+
+#h4 {
+    color: gray;
+}
+
+#h1 {
+    color: white;
+}
+
+.p {
+    color: white;
+}
+.form-label {
+    color: white;
+}
+.display-4 {
+    color: grey;
 }
