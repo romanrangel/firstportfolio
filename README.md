@@ -2,10 +2,9 @@
 
 
 ## About Me
-The About Me page is the homepage to my website. You can be directed here by clicking 'Roman' or 'Home' buttons in the navigation bar. This page has my self portrait and a section of paragraphs describing my passion for coding.
+I enjoy the challange of turning complex problems into simple and beautiful interface designs. I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or in the future, jQuery. When I am not learning how to code, you'll find me around friends and family or playing simulation video games. Driven and permanently curious, I strive to turn visitors into customers and help your business grow.
 
 ## Portfolio
-The Portfolio page consists of a jumbotron and placeholder images. You can be directed here by clicking the 'Portfolio' button in the navigation bar. I've placed four responsive images that stack on each other as the screen gets smaller.
+https://romanrangel.github.io/RomansPortfolio/
 
 ## Contact Me
-Contact Me page has resources for the viewer to have direct contact with me. LinkedIn and GitHub Repository buttons all have their respective colors and go directly to my personal social media accounts. I have also added a field where a potential employer could enter their name, email, and a message to contact me directly from my webpage.
