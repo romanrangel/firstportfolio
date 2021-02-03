@@ -13,4 +13,4 @@ Location: Located in San Diego, CA
 
 Email: [romanrangel503@gmail.com](mailto:romanrangel503@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-[My Portfolio Webpage](https://romanrangel.github.io/Portfolio/)
+Visit my [Portfolio Webpage](https://romanrangel.github.io/Portfolio/)!
